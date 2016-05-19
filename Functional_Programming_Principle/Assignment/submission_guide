@@ -1,0 +1,7 @@
+1. get into project dir
+2. sbt
+3. console     (this will compile the code)
+4. import project   (e.g. import recfun.Main._)
+5. test code
+6. go back to sbt
+7. submit zhaowenliangpolyu@gmail.com xwdMjrEdvj
