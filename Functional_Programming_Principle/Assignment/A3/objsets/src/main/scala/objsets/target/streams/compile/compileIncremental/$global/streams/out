@@ -1,0 +1,55 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetData.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetReader.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetData.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetReader.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetData.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetReader.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet.scala, /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 463e2f27, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/classes:/Users/admin/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:9: Tweet is already defined as class Tweet[0m
+[0m[[31merror[0m] [0mclass Tweet(val user: String, val text: String, val retweets: Int) {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:36: TweetSet is already defined as class TweetSet[0m
+[0m[[31merror[0m] [0mabstract class TweetSet {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:112: Empty is already defined as class Empty[0m
+[0m[[31merror[0m] [0mclass Empty extends TweetSet {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:136: NonEmpty is already defined as class NonEmpty[0m
+[0m[[31merror[0m] [0mclass NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:195: TweetList is already defined as trait TweetList[0m
+[0m[[31merror[0m] [0mtrait TweetList {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:206: Nil is already defined as object Nil[0m
+[0m[[31merror[0m] [0mobject Nil extends TweetList {[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:212: Cons is already defined as class Cons[0m
+[0m[[31merror[0m] [0mclass Cons(val head: Tweet, val tail: TweetList) extends TweetList {[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:217: GoogleVsApple is already defined as object GoogleVsApple[0m
+[0m[[31merror[0m] [0mobject GoogleVsApple {[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/main/scala/objsets/TweetSet_bak1.scala:232: Main is already defined as object Main[0m
+[0m[[31merror[0m] [0mobject Main extends App {[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m9 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

@@ -1,0 +1,85 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.11:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 52ac249b, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/classes:/Users/admin/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:3: object scalatest is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.scalatest.FunSuite[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:5: object junit is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.junit.runner.RunWith[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:6: object scalatest is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.scalatest.junit.JUnitRunner[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:9: not found: type FunSuite[0m
+[0m[[31merror[0m] [0mclass TweetSetSuite extends FunSuite {[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:8: not found: type RunWith[0m
+[0m[[31merror[0m] [0m@RunWith(classOf[JUnitRunner])[0m
+[0m[[31merror[0m] [0m ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:11: not found: type Empty[0m
+[0m[[31merror[0m] [0m    val set1 = new Empty[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:14: not found: type Tweet[0m
+[0m[[31merror[0m] [0m    val c = new Tweet("c", "c body", 7)[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:15: not found: type Tweet[0m
+[0m[[31merror[0m] [0m    val d = new Tweet("d", "d body", 9)[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:21: not found: type Tweet[0m
+[0m[[31merror[0m] [0m  def asSet(tweets: TweetSet): Set[Tweet] = {[0m
+[0m[[31merror[0m] [0m                                   ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:21: not found: type TweetSet[0m
+[0m[[31merror[0m] [0m  def asSet(tweets: TweetSet): Set[Tweet] = {[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:22: not found: type Tweet[0m
+[0m[[31merror[0m] [0m    var res = Set[Tweet]()[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:27: not found: type TweetSet[0m
+[0m[[31merror[0m] [0m  def size(set: TweetSet): Int = asSet(set).size[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:29: not found: value test[0m
+[0m[[31merror[0m] [0m  test("filter: on empty set") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:35: not found: value test[0m
+[0m[[31merror[0m] [0m  test("filter: a on set5") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:41: not found: value test[0m
+[0m[[31merror[0m] [0m  test("filter: 20 on set5") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:47: not found: value test[0m
+[0m[[31merror[0m] [0m  test("union: set4c and set4d") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:53: not found: value test[0m
+[0m[[31merror[0m] [0m  test("union: with empty set (1)") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:59: not found: value test[0m
+[0m[[31merror[0m] [0m  test("union: with empty set (2)") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m/Users/admin/Documents/Study/software/Programming/Course/Programming_Language/Scala/Mooc/Coursera/Functional_Programming_Principle/Assignment/A3/objsets/src/test/scala/objsets/TweetSetSuite.scala:65: not found: value test[0m
+[0m[[31merror[0m] [0m  test("descending: set5") {[0m
+[0m[[31merror[0m] [0m  ^[0m
+[0m[[31merror[0m] [0m19 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
